@@ -1,1 +1,7 @@
-Interactive Raphael Objects Plugin
+Raphael plugins
+
+Updated raphael.widgets.js. 
+Drop down widget now has a wider range of attributes. Contains 4 widgets.
+
+Added raphael.utilities
+Contains 2 utilities
