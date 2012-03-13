@@ -5,3 +5,8 @@ Drop down widget now has a wider range of attributes. Contains 4 widgets.
 
 Added raphael.utilities
 Contains 2 utilities
+Code located at: http://www.irunmywebsite.com/raphael/raphael.utilities.doc.php
+Example implementation of polygon utility...
+http://www.irunmywebsite.com/jQuery/additionaljqueryhelp.php?v=2 and see 'Raphael Animation 2'
+Example implementation of Pie Chart utility...
+http://www.irunmywebsite.com/jQuery/additionaljqueryhelp.php?v=1 and see 'Table data to Pi Chart'
